@@ -79,9 +79,6 @@ for (let index = 0; index < 100000; index++) {
   ) {
     numeroDeGabariosMedia++;
   } else numeroGabaritosAleatorios++;
-  gabaritoOficial = [];
-  meuGabaritoUsandoMedia = [];
-  arry3 = [];
 }
 
 console.log(
